@@ -1,0 +1,12 @@
+--How to use this--
+
+step one - go to roblox location ( use the shortcut use properties in the right click menu and press open file loaction)
+
+step two - locate sound area ( sounds folder is under content folder )
+
+step three - take all sounds in the "Used Sounds" folder and move them to roblox (make shure to save a dupe for this folder because 
+anytime there is a update roblox will remove your sounds)
+
+step four - Enjoy you're new sounds :P
+
+-MADE BY Inf_Solutions ON DISCORD-
